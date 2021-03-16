@@ -1,0 +1,20 @@
+.instbg {
+    margin: 10px;
+    padding-top: 10px;
+    width: 160px;
+    height: 150px;
+    border-radius: 40px;
+    background: linear-gradient(20deg, #ffe487, #f8782b, #bc319a, #9339c1);
+    box-shadow: -8px 30px 22px -7px #4d6bd89c inset;
+    display: inline-block;
+
+}
+.instbg:before {
+    color: white;
+    text-align: center;
+    padding: 18px;
+    font-size: 140px;
+    font-family: "Font Awesome 5 Brands";
+    content: "\f16d"
+    
+}
